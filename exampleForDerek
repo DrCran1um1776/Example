@@ -1,0 +1,10 @@
+<!DOCTYPE html>  <!-- header to indicate this document is written by HTML5 -->
+<html lang="en-US"> 
+    
+    <html>
+        <body>
+            <p>
+                Hello There!
+            </p>
+        </body>
+    </html>
